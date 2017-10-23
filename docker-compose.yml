@@ -2,6 +2,6 @@ version: "3"
 
 services:
   nginx:
-    image: nginx
+    image: seqvence/static-site
     ports:
       - 80:80
